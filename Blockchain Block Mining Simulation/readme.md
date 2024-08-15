@@ -11,7 +11,7 @@ To run this project, you need a basic understanding of HTML, CSS, and JavaScript
 
 # Installation
 Clone the repository:
-    git clone https://github.com/vasanthmarimuth/blockchain-block-mining-simulation.git
+    git clone https://github.com/vasanthmarimuth/JavaScriptProjects/blockchain-block-mining-simulation.git
 
 
 # Usage
