@@ -7,17 +7,7 @@ Block Mining: Each time the "Mining Blocks" button is clicked, the block count i
 Saving Blocks: The user can save the current block count, which is then displayed as part of the blockchain network.
 # Getting Started
 Prerequisites
-To run this project, you need a basic understanding of HTML, CSS, and JavaScript. Additionally, a web browser is required to open the index.html file.
-
-# Installation
-Clone the repository:
-    git clone https://github.com/vasanthmarimuth/JavaScriptProjects/blockchain-block-mining-simulation.git
-
-
-# Usage
-Welcome Message: The page will display a welcome message with the username "Dude".
-Mining Blocks: Click on the "Mining Blocks" button to increment the block count.
-Saving Blocks: After mining blocks, click the "Saving Blocks" button to save the current block count. The saved count will be displayed under "Block in Network".
+To run this project, you need a basic understanding of HTML, CSS, and JavaScript. Additionally, a web browser is required to open the index.html
 
 # Project Structure
 blockchain-block-mining-simulation/
